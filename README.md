@@ -49,10 +49,6 @@ TODO
 
 TODO
 
-#### Typescript
-
-We use [Typescript](https://www.typescriptlang.org/) where possible for all components and pages. This forces good conventions and has very little downside.
-
 ## Continuous Integration
 
 TODO
